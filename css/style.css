@@ -18,7 +18,15 @@
 .row {
     height: 50px;
     background-color: blue;
+    margin-bottom: 20px;
+}
+
+[class*="col-"] {
     border: 1px solid white;
+}
+
+.green {
+    background-color: green;
 }
 
 /* 
