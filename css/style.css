@@ -17,7 +17,7 @@
 }
 
 .row {
-    height: 50px;
+    min-height: 50px;
 }
 
 [class*="col-"],
@@ -29,6 +29,7 @@
 
 .green {
     background-color: green;
+    min-height: 50px;
 }
 
 h2 {
@@ -36,12 +37,25 @@ h2 {
     color: black;
 }
 
+h3 {
+    color: black;
+}
+
 .padding {
     padding: 10px;
 }
 
-.left {
+.alt-height {
     height: 100px;
+}
+
+.space-around {
+    justify-content: space-around;
+    align-items: center;
+}
+
+.space-between {
+    justify-content: space-between;
 }
 
 /* 
