@@ -13,6 +13,7 @@
 */
 .container {
     max-width: 100%;
+    color: white;
 }
 
 .row {
@@ -23,6 +24,7 @@
 .col {
     border: 1px solid white;
     background-color: blue;
+    text-align: center;
 }
 
 .green {
@@ -31,10 +33,15 @@
 
 h2 {
     margin: 20px 0;
+    color: black;
 }
 
 .padding {
     padding: 10px;
+}
+
+.left {
+    height: 100px;
 }
 
 /* 
