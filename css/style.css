@@ -1,0 +1,33 @@
+/* 
+    RESET 
+*/
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*
+    GENERAL
+*/
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+/* 
+    HEADER 
+*/
+
+/* 
+    MAIN 
+*/
+
+/* 
+    FOOTER 
+*/
+
+/* 
+    MEDIA QUERIES 
+*/
